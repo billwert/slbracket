@@ -1,0 +1,32 @@
+France +370
+Argentina +470
+England +550
+Spain +600
+Brazil +1200
+Portugal +1200
+Netherlands +1600
+Germany +1600
+Norway +3300
+Colombia +3500
+USA +4000
+Morocco +4500
+Mexico +4500
+Belgium +5000
+Japan +5500
+Switzerland +5500
+Senegal +10000
+Ecuador +12500
+Ivory Coast +12500
+Croata +15000
+Egypt +20000
+Canada +22500
+Sweden +22500
+Ghana +25000
+Australia +25000
+Austria +40000
+Algeria +40000
+Paraguay +50000
+DR Congo +200000
+Cape Verde +250000
+Bosnia & Herzeogvina +250000
+South Africa +250000
