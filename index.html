@@ -82,7 +82,8 @@ section { max-width: 1200px; margin: 0 auto; padding: 24px 20px 60px; }
 <section id="view-grid" class="hidden">
   <div style="margin-bottom:20px;">
     <h2 style="font-size:22px;font-weight:800;margin:0 0 8px;">The Matrix</h2>
-    <p style="color:var(--muted);font-size:13px;margin:0;">Each column is a bracket slot (R16 → Final). Rows sorted by how conventional each bracket is. Hover a chip to highlight all matching picks.</p>
+    <p style="color:var(--muted);font-size:13px;margin:0 0 12px;">Each column is a bracket slot (R16 → Final). Rows sorted by how conventional each bracket is. Hover a chip to highlight all matching picks.</p>
+    <p style="color:var(--muted);font-size:12px;margin:0;line-height:1.6;max-width:680px;">The top header row is the <strong style="color:var(--cream);">consensus</strong> — not anyone's real bracket, but a slot-by-slot majority vote: for each matchup, whichever team the most people picked wins that cell. The number below each chip (e.g. <strong style="color:var(--cream);">7/12</strong>) is how many brackets agreed. Because each slot is decided independently, the consensus can contradict itself — it might show the same team winning two different quarterfinal slots. Think of it less as a bracket and more as a snapshot of the crowd's favorite answer to each individual question. Your <em>· N off</em> score counts how many of your 15 picks disagree with that crowd favorite.</p>
   </div>
   <div class="card scroll-x" id="grid-container"></div>
 </section>
